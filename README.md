@@ -13,11 +13,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre mí</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 Soy de Colombia<br>- 📚 Actualmente estoy en formación como tecnólogo y estoy dentro de una beca otorgada por ORACLE<br>- ⚡ En los tiempos libres me gusta hacer deporte y sumergirme en la lectura.</p>
+<p align="left"><br><br>- 🔭 Soy de Colombia<br>- 📚 Actualmente estoy en formación como tecnólogo y estoy dentro de una beca otorgada por ORACLE<br>- ⚡ En los tiempos libres me gusta hacer deporte y sumergirme en la lectura.</p>
 
 ###
 
