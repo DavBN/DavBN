@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left"><br><br>- 🔭 Soy de Colombia<br>- 📚 Actualmente estoy en formación como tecnólogo y estoy dentro de una beca otorgada por ORACLE<br>- ⚡ En los tiempos libres me gusta hacer deporte y sumergirme en la lectura.</p>
+<p align="left"><br><br>- 🔭 Soy de Colombia<br>- 📚 Tecnólogo en análisis y desarrollo de software<br>- ⚡ En los tiempos libres me gusta hacer deporte y sumergirme en la lectura.</p>
 
 ###
 
